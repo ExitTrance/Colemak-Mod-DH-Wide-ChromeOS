@@ -1,6 +1,6 @@
 # Colemak Mod-DH Wide for ChromeOS (QWERTY)
 
-Little extension to enable the Colemak Mod-DH Wide layout for ChromeOS with specifically a QWERTY UK Layout. Tested and working on the Dell CB13 7310. Does not require the ChromeOS Developer Mode to be turned on, as far as I know. This can be modified to accommodate any layout, as it simply converts binded keys to some user defined text when typed.
+Little extension to enable the Colemak Mod-DH Wide layout for ChromeOS with specifically a QWERTY UK Layout. Tested and working on the Dell CB13 7310. Does not require the ChromeOS Developer Mode to be turned on, as far as I know. This can be modified to accommodate any layout, as it simply converts binded keys to some user defined text when typed. As it is an extension, it does not work on the lock/login screen. According to [Extra Keyboards for ChromeOS](https://github.com/google/extra-keyboards-for-chrome-os), and through own testing using [this](https://codepen.io/Sohail05/pen/yOpeBm) codepen, I have found that ChromeOS defaults to your main keyboard for any password fields.
 
 
 ### Mod-DH Wide Layout
