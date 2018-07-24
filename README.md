@@ -11,7 +11,7 @@ Little extension to enable the Colemak Mod-DH Wide layout for ChromeOS with spec
 ### How to use it
 
 1. Place `main.js` and `manifest.json` in a folder. 
-2. Go to `chrome://extensions/` and enable the extension 'Developer mode'.
+2. Go to `chrome://extensions/` and enable the 'Developer mode'.
 3. Click on 'Load unpacked' and select the folder where both files are located at.
 4. Go to the following link `chrome://settings/inputMethods` or `chrome://settings/languages` and navigate to 'Input method' -> 'Manage input methods'.
 5. Select 'UK Colemak Mod-DH Wide'. 
