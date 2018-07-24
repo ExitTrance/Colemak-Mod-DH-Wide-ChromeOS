@@ -1,5 +1,5 @@
 # Colemak Mod-DH Wide for ChromeOS (QWERTY)
-Little extension to enable the Colemak Mod-DH Wide layout for ChromeOS with specifcally a QWERTY UK Layout.
+Little extension to enable the Colemak Mod-DH Wide layout for ChromeOS with specifically a QWERTY UK Layout. Tested and working on the Dell CB13 7310. Does not require the ChromeOS Developer Mode to be turned on, as far as I know. This can be modified to accomodate any layout, as it simply converts binded keys to some user defined text.
 
 ### Mod-DH Wide Layout
 
@@ -7,14 +7,14 @@ Little extension to enable the Colemak Mod-DH Wide layout for ChromeOS with spec
 
 ### How to use it
 1. Place `main.js` and `manifest.json` in a folder. 
-2. Go to `chrome://extensions/` and enable Developer mode.
+2. Go to `chrome://extensions/` and enable the extension 'Developer mode'.
 3. Click on 'Load unpacked' and select the folder where both files are located at.
 4. Go to the following link `chrome://settings/inputMethods` or `chrome://settings/languages` and navigate to 'Input method' -> 'Manage input methods'.
 5. Select 'UK Colemak Mod-DH Wide'. 
 6. Use Ctrl+Space to switch between layouts.
 
 ### How to modify the layout
-If you want to modify the layout for whatever purpose, you can do so using `main.js`.  For example, you could switch this from a QWERTY to a QWERTZ layout by swapping the Z and Y keys around. Granted, you'll have to swap around a lot more, and add special Characters like Umlaute.
+If you want to modify the layout for whatever purpose, you can do so by modifying the 'chars' object inside `main.js`. For example, you could switch the Z and Y keys around in the case of a QWERTZ keyboard.
 
 
 
