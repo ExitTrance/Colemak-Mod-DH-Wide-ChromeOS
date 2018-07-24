@@ -1,0 +1,22 @@
+{
+  "name": "Colemak Mod-DH Wide UK",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "An IME that converts QWERTY keystrokes to the Colemak Mod-DH UK Wide equivalent.",
+  "background":  {
+    "scripts": ["main.js"]
+  },
+  "permissions": [
+    "input"
+  ],
+  "input_components": [
+    {
+      "name": "Colemak Mod-DH Wide UK",
+      "type": "ime",
+      "id": "gb_colemak_mod_dh_wide",
+      "description": "Colemak using Mod-DH Wide",
+      "language": "en-GB",  // The primary language this IME is used for
+      "layouts": ["gb::eng"]  // The supported keyboard layouts for this IME
+    }
+  ]
+}
