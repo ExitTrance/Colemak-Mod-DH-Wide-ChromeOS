@@ -87,8 +87,6 @@ chrome.input.ime.onBlur.addListener(() => {
 
 
 
-// TODO: Add EXTEND functionality
-//       Requires handling of both keydown AND keyup
 chrome.input.ime.onKeyEvent.addListener(
 
 
