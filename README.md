@@ -7,7 +7,7 @@ I doubt anyone will use this, but this is more so for keeping save the effort I 
 ### Mod-DH Wide Layout
 Choice of Extend key is Capslock here which has been remapped to be in the location of the Search Key on ChromeOS. Too lazy to provide a graphic of the Extend mapping since it is very personal. 
 
-![Picture of the Layout](https://colemakmods.github.io/mod-dh/gfx/mod_dh_keyb_iso_wide.png)
+![Picture of the Layout](https://colemakmods.github.io/ergonomic-mods/gfx/wide/colemak_dh_keyb_iso_angle_wide.png)
 
 
 ### How to use it
