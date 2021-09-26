@@ -31,7 +31,6 @@ var dic = {
     "Minus":  [")", "0", null, null],
     "Equal":  ["-", "_", null, null],
 
-
     "KeyQ": ["q", "Q", null, null],
     "KeyW": ["w", "W", null, null],
     "KeyE": ["f", "F", "Escape", null],
@@ -44,14 +43,14 @@ var dic = {
     "KeyP": ["y", "Y", null, null],
     "BracketLeft": [";", ":", null, null],
     "BracketRight": ["/", "?", null, null],
-
+    
     "KeyA": ["a", "A", null, null],
     "KeyS": ["r", "R", null, null],
     "KeyD": ["s", "S", "Shift", "shiftKey"],
     "KeyF": ["t", "T", "Control", "ctrlKey"],
     "KeyG": ["g", "G", "KeyA", null],
     "KeyH": ["]", "}", null, null],
-    "KeyJ": ["k", "K", null, null],
+    "KeyJ": ["m", "M", null, null],
     "KeyK": ["n", "N", "ArrowLeft", null],
     "KeyL": ["e", "E", "ArrowDown", null],
     "Semicolon": ["i", "I", "ArrowRight", null],
@@ -66,7 +65,7 @@ var dic = {
     "KeyV": ["v", "V", "Backspace", null],
     "KeyB": ["\\", "|", "LaunchAssistant", null],
     "KeyN": ["#", "~", null, null],
-    "KeyM": ["m", "M", null, null],
+    "KeyM": ["k", "K", null, null],
     "Comma": ["h", "H", null, null],
     "Period": [",", "<", null, null],
     "Slash": [".", ">", null, null],
